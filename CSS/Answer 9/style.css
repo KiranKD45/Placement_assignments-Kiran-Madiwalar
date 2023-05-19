@@ -1,0 +1,161 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+.group{
+  position: absolute;
+ margin-top: 4px;
+ margin-left: -0px;
+}
+.period{
+  position: absolute;
+ margin-top: 25px;
+ margin-left: -0px;
+}
+li{
+  list-style: none;
+}
+.ad{
+  position: relative;
+  left: -18px;
+}
+.numbers{
+  margin-left: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+p{
+margin-top: 60px;
+margin-left: 20px;
+}
+.col-1,.col-2{
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+  text-align: center;
+  margin-top: 30px;
+  color:#212C38;
+  background-color: #FF9999;
+}
+.red-1{
+ margin-left: 60px;
+ margin-top: -540px;
+}
+.red-2{
+  margin-left: 140px;
+ margin-top: -480px;
+}
+.row-1,.row-2,.row-3,.row-4{
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+  text-align: center;
+  margin-left: 27px;
+  color: #212C38;
+  background-color: #99CCFF;
+}
+.blue-1{
+  display: flex;
+  margin-left: 200px;
+  margin-top: -290px;
+}
+.blue-2{
+  display: flex;
+  margin-left: 200px;
+  margin-top: 30px;
+}
+.blue-3{
+  display: flex;
+  margin-left: 200px;
+  margin-top: 30px;
+}
+.blue-4{
+  display: flex;
+  margin-left: 200px;
+  margin-top: 30px;
+}
+.row-5,.row-6{
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+  text-align: center;
+  margin-left: 27px;
+  color: #212C38;
+  background-color: #9BFF99;
+}
+.green-1,.green-2{
+  display: flex;
+  margin-left: 200px;
+  margin-top: 20px;
+}
+.green-2{
+  margin-bottom: 20px;
+}
+.He{
+  margin-left: 1390px;
+margin-top: -690px;
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+  text-align: center;
+  color: #212C38;
+  background-color: #FF9999;
+}
+.col-3,.col-4,.col-5,.col-6,.col-7,.col-8{
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+  text-align: center;
+  margin-top: 30px;
+  color:#212C38;
+  background-color: #FDFF8C;
+}
+.yellow-1{
+  margin-left: 995px;
+}
+.yellow-2{
+  margin-left: 1074px;
+  margin-top: -480px;
+}
+.yellow-3{
+  margin-left: 1151px;
+  margin-top: -480px;
+}
+.yellow-4{
+  margin-left: 1228px;
+  margin-top: -480px;
+}
+.yellow-5{
+  margin-left: 1310px;
+  margin-top: -480px;
+}
+.yellow-6{
+  margin-left: 1390px;
+  margin-top: -480px;
+}
+h4{
+  font-size: 18px;
+  font-weight:bolder;
+}
+.stars{
+  margin-left: 210px;
+  margin-top: -130px;
+  font-size: 1.2rem;
+  font-weight: 900;
+}
+.stars-2{
+  margin-top: 40px;
+}
+.stars-3{
+  margin-top: -12px;
+}
+.stars-4{
+  margin-top: 30px;
+}
+.stars-5{
+  margin-top: 30px;
+}
+.stars-6{
+  margin-top: -12px;
+}
