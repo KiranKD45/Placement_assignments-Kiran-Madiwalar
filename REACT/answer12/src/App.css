@@ -1,0 +1,21 @@
+.head{
+  text-align:  center;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  color: red;
+}
+button{
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  height: 50px;
+  width: 155px;
+  font-size: 20px;
+  color: white;
+  background-color: #000;
+  margin-top: 20px; 
+  margin-left: 700px;
+  border-radius: 20px;
+  font-weight: 600;
+}
