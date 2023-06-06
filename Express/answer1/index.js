@@ -29,7 +29,8 @@ const posts = [
   { id: 17, title: "Post 17", content: "the content of post 17" },
   { id: 18, title: "Post 18", content: "the content of post 18" },
   { id: 19, title: "Post 19", content: "the content of post 19" },
-  { id: 20, title: "Post 20", content: "the content of post",}]
+  { id: 20, title: "Post 20", content: "the content of post",}
+];
 
 
   app.get("/post", (req, res) => {
